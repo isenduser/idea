@@ -3,7 +3,7 @@ package com.cssl.pojo;
 import org.springframework.data.annotation.Id;
 
 import java.io.Serializable;
-
+//实体类
 public class Users implements Serializable {
     @Id
     private Integer id;
